@@ -1,0 +1,5 @@
+# ignore data files #
+*.dat
+
+# ignore test test folder #
+.test
